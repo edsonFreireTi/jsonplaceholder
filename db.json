@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "title": "Produto 1",
+      "indicatorValue": 0.5,
+      "level": "Beginner"
+    },
+    {
+      "id": 2,
+      "title": "Produto 2",
+      "indicatorValue": 0.5,
+      "level": "Beginner"
+    },
+    {
+      "id": 3,
+      "title": "Produto 3",
+      "indicatorValue": 0.5,
+      "level": "Beginner"
+    }
+  ]
+}
