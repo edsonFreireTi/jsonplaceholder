@@ -2,21 +2,33 @@
   "produtos": [
     {
       "id": 1,
-      "title": "Produto 1",
-      "indicatorValue": 0.5,
-      "level": "Beginner"
+      "title": "SEGURO PROTEÇÃO FINANCEIRA (SPF)",
+      "content": "Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1 Teste 1"
     },
     {
       "id": 2,
-      "title": "Produto 2",
-      "indicatorValue": 0.5,
-      "level": "Beginner"
+      "title": "ASSISTÊNCIA 24H",
+      "content": "Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2 Teste 2"
     },
     {
       "id": 3,
-      "title": "Produto 3",
-      "indicatorValue": 0.5,
-      "level": "Beginner"
+      "title": "CORRETORA DE SEGUROS",
+      "content": "Teste 3"
+    },
+    {
+      "id": 4,
+      "title": "GARANTIA ESTENDIDA",
+      "content": "Teste 4"
+    },
+    {
+      "id": 5,
+      "title": "SUPER REVISÃO",
+      "content": "Teste 5"
+    },
+    {
+      "id": 6,
+      "title": "FRANQUIA LIVRE",
+      "content": "Teste 6"
     }
   ]
 }
